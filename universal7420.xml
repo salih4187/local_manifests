@@ -7,7 +7,7 @@
     <project path="device/samsung/zeroltexx" name="samsungexynos7420/android_device_samsung_zeroltexx" remote="github" revision="lineage-20-new"/>
 
     <!--Kernel-->
-    <project path="kernel/samsung/universal7420" name="samsungexynos7420/android_kernel_samsung_universal7420" remote="github" revision="lineage-20-new" />
+    <project path="kernel/samsung/universal7420" name="samsungexynos7420/android_kernel_samsung_universal7420" remote="github" revision="lineage-20-bpf" />
 
     <!-- Vendor folders -->
     <project path="vendor/samsung" name="samsungexynos7420/proprietary_vendor_samsung" remote="github" revision="lineage-20-new" />
