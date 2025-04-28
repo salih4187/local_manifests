@@ -3,7 +3,7 @@
 <manifest>
     <!--Device Trees-->
     <project path="device/samsung/trelte-common" name="salih4187/android_device_samsung_trelte-common" remote="github" revision="lineage-19.1" />
-    <project path="device/samsung/treltexx" name="salih4187/android_device_samsung_zerofltexx" remote="github" revision="lineage-19.1" />
+    <project path="device/samsung/treltexx" name="salih4187/android_device_samsung_treltexx" remote="github" revision="lineage-19.1" />
 
     <!--Kernel-->
     <project path="kernel/samsung/universal5433" name="salih4187/android_kernel_samsung_universal5433" remote="github" revision="lineage-19.1" />
